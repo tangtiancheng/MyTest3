@@ -7,6 +7,7 @@ target 'Vfds' do
   pod 'Masonry'
   pod 'AFNetworking'
   pod 'MJRefresh'
+  pod 'MJExtension'
 
   # Pods for Vfds
 

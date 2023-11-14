@@ -15,24 +15,28 @@ PODS:
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
   - Masonry (1.1.0)
+  - MJExtension (3.4.1)
   - MJRefresh (3.7.6)
 
 DEPENDENCIES:
   - AFNetworking
   - Masonry
+  - MJExtension
   - MJRefresh
 
 SPEC REPOS:
   trunk:
     - AFNetworking
     - Masonry
+    - MJExtension
     - MJRefresh
 
 SPEC CHECKSUMS:
   AFNetworking: 3bd23d814e976cd148d7d44c3ab78017b744cd58
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 21c5f6f8c4d5d8844b7ae8fbae08fed0b501f961
   MJRefresh: 2fe7fb43a5167ceda20bb7e63f130c04fd1814a5
 
-PODFILE CHECKSUM: 220a402d6b3cb83b78d47c01c3bb1f86818f6830
+PODFILE CHECKSUM: c1c2421f81f992a477503a940294d92f6a27a77f
 
 COCOAPODS: 1.13.0
