@@ -6,6 +6,8 @@ target 'Vfds' do
   use_frameworks!
   pod 'Masonry'
   pod 'AFNetworking'
+  pod 'MJRefresh'
+
   # Pods for Vfds
 
 end
